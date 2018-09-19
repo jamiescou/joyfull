@@ -1,0 +1,15 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "%E8%A7%A3%E5%BF%A7%E6%9D%82%E8%B4%A7%E9%93%BA",
+	"description": "just for funny",
+	"appid": "wx341c7088bfea3c45",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"condition": {}
+}
